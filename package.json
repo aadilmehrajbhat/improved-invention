@@ -33,7 +33,7 @@
     "@nrwl/jest": "10.4.4",
     "@nrwl/node": "^10.4.4",
     "@nrwl/tao": "10.4.4",
-    "@nrwl/web": "^10.4.4",
+    "@nrwl/web": "^19.8.4",
     "@nrwl/workspace": "10.4.4",
     "@rxjs-ninja/rxjs-utility": "~2.1.2",
     "@types/jest": "26.0.8",
